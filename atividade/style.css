@@ -8,7 +8,8 @@
         padding-left: 10px;
         margin-left: 10px;
         float: right;
-        background-color: gray;
+        background-color: rgb(82, 82, 82);
+        padding-bottom: 10px;
       }
   nav {
     display: block;
@@ -20,61 +21,74 @@
     margin-right: 0;
     float: none;
     background-color:black;
-    color: aliceblue;
-  }
-  a{
     color: whitesmoke;
+  }
+  #nav{
+    color: whitesmoke;
+  }
+
+  #h1_aside{
+    color: whitesmoke;
+    background-color: black;
+    text-align: center;
+    padding-top: 0px;
+  }
+  article{
+    background-color: rgb(82, 82, 82);
+  }
+  header{
+    display: block;
+    padding-top: 120px;
+    background-color: rgb(82, 82, 82);
+  }
+  li{
+    margin-top: 10px;
+  }
+  input{
+    width: 230px;
+    height: 22px;
+  }
+  ::placeholder{
+    font-style: italic;
+    font-size: smaller  ;
+  }
+  #section2{
+    list-style-type: decimal;
+    background-color: whitesmoke;
+  }
+  div{
+    background-color: whitesmoke;
+    margin-right: 10px;
+    color: black;
+    padding-bottom: 0px;
+  }
+  #asideli{
+    color: black;
+
+  }
+
+  #preto{
+    color: black;
+  }
+  #barra{
+    list-style-type: none;
+  }
+  img{
+    width: 118px;
+  }
+  #separador{
+    padding-left: 0px;
   }
   footer{
     display: block;
     width: auto;
     float: right;
     width: 100%;
-    padding-left: 10px;
+    padding-left: 00px;
     padding-bottom: 8px;
     margin-left: 0px;
     margin-top: 10px;
-    background-color: rgb(123, 123, 123);
-
-  }
-  section{
-    display: block;
-    width: 20%;
-    padding-left: 0px;
-    margin-left: 0px;
-    margin-right: 0% ;
-    float: right;
-    background-color:blue;
-  }
-  #sec2{
-    background-color:red;
-
-  }
-  #h1_aside{
-    color:aliceblue;
-    background-color: black;
-    margin: 10px;
-    padding-left: 20px;
+    background-color: rgb(82, 82, 82);
   }
   
-  article{
-    background-color: gray;
-  }
-
-  li{
-    margin: 6px;
-  }
-  header{
-    display: block;
-    padding-top: 120px;
-    background-color: gray;
-  }
-  #h1_webd{
-    color: whitesmoke;
-    background-color: black;
-  }
-  #h1_pro{
-    color: whitesmoke;
-    background-color: black;
-  }
   
